@@ -1,8 +1,8 @@
 # Welcome to My GitHub Page!
 
-* I am a newly graduated fullstack developer from Linnaeus University with a Bachelors Degree in Computer Science. While i am proficient in both frontend and backend development, i have recently found a love for frontend development.
-* My most recent and proudest project is SVEN, a mobile application that allows for connecting to a strenght sensor trough bluetooth to visualise strength in live graphs, this project was done for a real customer through a university course.
-* Currently in my free time i am developing a web based application to scrape the best deals from different stores in my area, to make grociory shopping cheaper and easier.
+* I am a newly graduated fullstack developer from Linnaeus University with a Bachelor's Degree in Computer Science. While I am proficient in both frontend and backend development, I have recently found a love for frontend development.
+* My most recent and proudest project is [SVEN](https://www.youtube.com/watch?v=qzraUXYIugM), a mobile application that allows for connecting to a strength sensor through Bluetooth to visualise strength in live graphs. This project was done for a real customer through a university course, so unfortunately I cannot publicly display the repository.
+* Currently in my free time I am developing a web-based application to scrape the best deals from different stores in my area, to make grocery shopping cheaper and easier.
 
 ## Tech Stacks I've worked with 🔧
 
@@ -58,4 +58,4 @@
 ![BLE](https://img.shields.io/badge/-Bluetooth%20Low%20Energy-0082FC?&logo=bluetooth&logoColor=white&style=for-the-badge)
 
 ## Projects
-My pinned projects are the ones i am most proud of! However i have done plently more altough they are located in GitLab. Feel free to contact me if you ever have any questions about my thought process or how the code works!
+My pinned projects are the ones I am most proud of! However, I have done plenty more, although they are located on GitLab. Feel free to contact me if you ever have any questions about my thought process or how the code works!
