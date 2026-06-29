@@ -34,14 +34,6 @@ React‑Native‑app that uses BLE to connect to strength sensors to display in 
 
 ---
 
-## 📊 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjiixd&show_icons=true&theme=default&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjiixd&layout=compact&theme=default)
-
----
-
 ## 📫 Contact and Information
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karlssonbenjamin04@gmail.com)
